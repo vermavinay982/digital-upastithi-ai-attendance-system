@@ -2,8 +2,8 @@
 /data/detected_faces
 *.pyc
 *__pycache__
-*.png
-*.jpg
+# *.png
+# *.jpg
 *.jpeg
 *.pkl
 *.json
